@@ -1,4 +1,8 @@
 #!/usr/bin/env bash
+#Adapted from: https://tensorflow.github.io/tensor2tensor/new_problem.html
+#Mike Holcomb
+#Reuters 5-gram example for CS6320
+
 USR_DIR=/Users/mike/CS6320/extracredit2
 PROBLEM=reuters_nlp
 DATA_DIR=$HOME/t2t_data

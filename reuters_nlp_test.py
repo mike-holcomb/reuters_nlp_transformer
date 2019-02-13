@@ -1,5 +1,7 @@
 """
 Adapted from: https://tensorflow.github.io/tensor2tensor/new_problem.html
+Mike Holcomb
+Reuters 5-gram example for CS6320
 """
 import os
 import re
