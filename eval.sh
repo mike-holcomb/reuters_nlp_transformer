@@ -3,7 +3,7 @@
 #Mike Holcomb
 #Reuters 5-gram example for CS6320
 
-USR_DIR=/Users/mike/CS6320/extracredit2
+USR_DIR=.
 PROBLEM=reuters_nlp_test
 DATA_DIR=$HOME/t2t_data
 TMP_DIR=/tmp/t2t_datagen
